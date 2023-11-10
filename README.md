@@ -36,6 +36,6 @@ I made an automated bot that watches over my work email and picks up shifts for 
 
 ## Where to from here?
 <p>
-  This is my first python only project which is nice but I do feel like it's missing somethings. I'd like to impliment a UI using <strong>React</strong> and <strong>Node</strong> soon for Backend and Frontend functions. I think this would make it more accessible to me. For instance, I'm using a Dictionary of Lists to mark my availability 
+  This is my first python only project which is nice but I do feel like it's missing some things. I'd like to impliment a UI using <strong>React</strong> and <strong>Node</strong> soon for Backend and Frontend functions. I think this would make it more accessible to me. For instance, I'm using a Dictionary of Lists to mark my availability 
   currently. It would be cool to see if I could add functionality similar to when2meet.com where you just drag your availability. I could also add buttons to start the bot or set a time interval that it should always be turned on by etc etc. I feel I could do a lot here which is exciting. It was also really cool to build something that I use everyday.
 </p>
