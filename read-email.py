@@ -87,7 +87,6 @@ while time.time() - start_time < duration:
                                 except Exception as e:
                                     print("Failed to click on Google", str(e))
 
-
                             except Exception as e:
                                 print("Failed to click on SSO", str(e))
                             
