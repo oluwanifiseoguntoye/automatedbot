@@ -10,8 +10,8 @@ I made an automated bot that watches over my work email and picks up shifts for 
 <img src="https://i.imgur.com/x1I5lVw.png" width="2000">
 
 <p>
-  Since the 2023 New Year, there's been a shift shortage where even tutors submit up to 40 hours of availability in a week,
-  they'd get the bare minimum, 4 hours. This has been going on all year and really impacted me, personally, as this is my sole income as a Student in Toronto. Until
+  Since the 2023 New Year, there's been a shift shortage where even if I submit up to 40 hours of availability in a week,
+  I'd get the bare minimum, 4 hours. This has been going on all year and really impacted me as this is my sole income as a Student in Toronto. Until
   September, when I decided I was going to do something about it.
 </p>
 
@@ -26,7 +26,7 @@ I made an automated bot that watches over my work email and picks up shifts for 
 </div>
 
 <p>
-  These are scheduled shifts other tutors don't want so they request to have them transferred. With so many tutors underemployed, these transfer requests disappear within the minute. I could never really get too many of them because they come at random times and I would need to go into the email, click on the button, log into my account for the shift. It took too long and it was way too stressful. So I decided to make a bot that would do all of that for me.
+  These are scheduled shifts other tutors don't want so they request to have them transferred. Usually, these transfer requests disappear within the minute so I could never really get too many of them because they come at random times and they were too many steps involved which slowed down the pace I'd be picking up shifts—it was way too stressful. So I decided to make a bot that would do all of that for me.
 </p>
 
 ## Results
