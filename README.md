@@ -10,8 +10,8 @@ I made an automated bot that watches over my work email and picks up shifts for 
 <img src="https://i.imgur.com/x1I5lVw.png" width="2000">
 
 <p>
-  Since the 2023 New Year, there's been a shift shortage where even if I submit up to 40 hours of availability in a week,
-  I'd get the bare minimum, 4 hours. This has been going on all year and really impacted me as this is my sole income as a Student in Toronto. Until
+  Since the 2023 New Year, I've been under employed where even if I submit up to 40 hours of availability in a week,
+  I'd get the bare minimum, 4 hours. This has been going on all year and really impacted me as this is my sole income as a student in Toronto. Until
   September, when I decided I was going to do something about it.
 </p>
 
